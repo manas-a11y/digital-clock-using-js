@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    background-color: rgba(85, 71, 81, 0.267);
+   
+}
+#containerId{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+#clock{
+    font-size: 5em;
+}
